@@ -7,3 +7,5 @@ try:
     print(text)
 except Exception as e:
     print("Exception: "+str(e))
+	
+	
